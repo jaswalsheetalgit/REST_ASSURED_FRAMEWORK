@@ -1,0 +1,14 @@
+/target/
+/test-output/
+/settings/
+/reports/
+/logs/
+/.settings/
+/.classpath
+/.project
+/.idea/
+/allure-results/
+/allure-report/
+/.allure/
+/*.iml
+/.DS_Store
